@@ -311,5 +311,10 @@ footer {
 
     .Featured-products {
         flex-direction: column-reverse;
+
+    }
+
+    .Featured-products-info {
+        text-align: center;
     }
 }
